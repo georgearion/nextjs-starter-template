@@ -1,6 +1,6 @@
 ## Prerequisites
 
-This repo is ment to serve as a starter template pre-configured with all the stuff needed to create a base setup from which to build your app on top off!
+This [repo](https://github.com/georgearion/nextjs-starter-template) is meant to serve as a starter template pre-configured with all the stuff needed to create a base setup from which to build your app on top off!
 
 ## Engine Locking
 
